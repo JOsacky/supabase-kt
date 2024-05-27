@@ -49,7 +49,6 @@ import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.encodeToJsonElement
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.put
-import kotlin.math.floor
 import kotlin.time.Duration.Companion.seconds
 
 @PublishedApi
